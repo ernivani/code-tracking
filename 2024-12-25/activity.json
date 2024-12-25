@@ -1,0 +1,750 @@
+{
+  "date": "2024-12-25",
+  "projects": {
+    "my-code-activity-ext": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking": [
+          {
+            "timestamp": "2024-12-24T23:57:19.455Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:57:19.457Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:57:19.455Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:57:19.637Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:57:19.877Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:57:19.927Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:57:19.927Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts": [
+          {
+            "timestamp": "2024-12-24T23:58:32.619Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:32.622Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:32.623Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:32.618Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:33.627Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:33.628Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:33.627Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:33.626Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:36.505Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:36.506Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:36.508Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:36.508Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:37.525Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:37.526Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:37.527Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:37.527Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:37.752Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:37.750Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:37.752Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:37.751Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:38.760Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:38.763Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:38.774Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:38.773Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:39.258Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:39.257Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:39.536Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:39.536Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:40.549Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:40.550Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:40.551Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-24T23:58:40.550Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "": [
+          {
+            "timestamp": "2024-12-25T00:00:10.417Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:10.418Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:21.832Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:21.833Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.092Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.092Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.162Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.162Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.251Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.251Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.336Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.336Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.424Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.424Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.558Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.558Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.640Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.639Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.685Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.684Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.773Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.773Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.860Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.860Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.946Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:28.945Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts": [
+          {
+            "timestamp": "2024-12-25T00:00:11.069Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.074Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.075Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.070Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.337Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.336Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.577Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.578Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.626Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.627Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.627Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:11.626Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts": [
+          {
+            "timestamp": "2024-12-25T00:00:22.106Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:22.107Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:22.108Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:22.105Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:22.400Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:22.399Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:22.676Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:22.676Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:22.998Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:22.998Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:23.048Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:23.049Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:23.049Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-25T00:00:23.050Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ]
+      }
+    }
+  }
+}
