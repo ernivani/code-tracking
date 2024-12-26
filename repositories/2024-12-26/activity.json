@@ -2,13 +2,77 @@
   "date": "2024-12-26",
   "projects": {
     "leetcode-solutions": {
-      "totalLinesAdded": 149,
-      "totalLinesRemoved": 34,
-      "totalActiveTime": 155,
+      "totalLinesAdded": 191,
+      "totalLinesRemoved": 43,
+      "totalActiveTime": 211,
       "files": {
         "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking": [
           {
             "timestamp": "2024-12-26T11:45:05.647Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:05.665Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:05.658Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:58:47.216Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:58:47.231Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:58:47.416Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:58:47.630Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:58:47.687Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:58:47.688Z",
             "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
             "fileType": ".my-code-activity-ext-#1-Code Tracking",
             "linesAdded": 0,
@@ -83,6 +147,30 @@
           },
           {
             "timestamp": "2024-12-26T11:54:59.689Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:26.044Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:45.383Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:55.284Z",
             "fileName": "",
             "fileType": "unknown",
             "linesAdded": 0,
@@ -253,6 +341,46 @@
           },
           {
             "timestamp": "2024-12-26T11:54:43.483Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:46.443Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:46.442Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:46.619Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:46.618Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:58:41.088Z",
             "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
             "fileType": ".md",
             "linesAdded": 0,
@@ -1394,6 +1522,46 @@
             "linesAdded": 0,
             "linesRemoved": 0,
             "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:18.912Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:19.789Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:57:18.884Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:57:20.146Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:57:20.905Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
           }
         ],
         "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs": [
@@ -1465,6 +1633,348 @@
             "timestamp": "2024-12-26T11:55:02.669Z",
             "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
             "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:25.320Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:25.319Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:26.336Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:26.336Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:29.175Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:29.177Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:29.260Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:29.321Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:29.497Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:29.581Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:29.589Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:29.594Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:29.798Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:29.884Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.014Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.104Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.112Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.190Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.275Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.364Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.491Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.500Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.580Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.666Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.673Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.752Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:30.758Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:31.016Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:31.074Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:31.082Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:32.104Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:55:32.101Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs.git": [
+          {
+            "timestamp": "2024-12-26T11:56:18.640Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs.git",
+            "fileType": ".git",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs": [
+          {
+            "timestamp": "2024-12-26T11:56:54.448Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:54.450Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:55.463Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs",
+            "fileType": ".rs",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:55.462Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:57.666Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:57.667Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:58.688Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs",
+            "fileType": ".rs",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:56:58.685Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs.git": [
+          {
+            "timestamp": "2024-12-26T11:57:19.300Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs.git",
+            "fileType": ".git",
             "linesAdded": 0,
             "linesRemoved": 0,
             "projectName": "leetcode-solutions"
