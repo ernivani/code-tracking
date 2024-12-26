@@ -3111,6 +3111,23 @@
           }
         ]
       }
+    },
+    "repositories": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking": [
+          {
+            "timestamp": "2024-12-26T12:04:47.753Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "repositories"
+          }
+        ]
+      }
     }
   }
 }
