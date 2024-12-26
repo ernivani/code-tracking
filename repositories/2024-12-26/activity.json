@@ -1,0 +1,974 @@
+{
+  "date": "2024-12-26",
+  "projects": {
+    "leetcode-solutions": {
+      "totalLinesAdded": 105,
+      "totalLinesRemoved": 33,
+      "totalActiveTime": 103,
+      "files": {
+        "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking": [
+          {
+            "timestamp": "2024-12-26T11:45:05.647Z",
+            "fileName": "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking",
+            "fileType": ".my-code-activity-ext-#1-Code Tracking",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "": [
+          {
+            "timestamp": "2024-12-26T11:45:55.512Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:06.662Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:26.232Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:29.620Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:46.265Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md": [
+          {
+            "timestamp": "2024-12-26T11:45:56.252Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:45:56.253Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:45:56.583Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:45:56.584Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:45:58.351Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:07.809Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:07.810Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:07.870Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:07.871Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:12.270Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py": [
+          {
+            "timestamp": "2024-12-26T11:46:34.856Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:34.858Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:35.878Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:35.879Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:37.851Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:37.853Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:38.452Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:39.460Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:39.460Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:50.517Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:50.515Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:50.822Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:50.996Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:51.453Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:51.467Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:52.187Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:53.206Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:53.207Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:53.324Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:53.323Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:54.332Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:54.332Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:54.360Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:54.360Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:54.743Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:55.763Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:55.764Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:56.457Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:56.459Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:56.676Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:57.164Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:57.741Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:58.755Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:46:58.755Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Python/494.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp": [
+          {
+            "timestamp": "2024-12-26T11:48:22.746Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:22.744Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:23.765Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:23.764Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:24.648Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:24.647Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:25.289Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:26.296Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:26.297Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:27.966Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:27.968Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:28.973Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:28.973Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:32.300Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:32.299Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:33.311Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:48:33.310Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:02.459Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:02.457Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:02.679Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:02.870Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:03.084Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:04.102Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:04.102Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:05.228Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:05.227Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:06.249Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:06.250Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:19.308Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:19.309Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:20.330Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:20.329Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:27.604Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:27.606Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:27.718Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:27.807Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.030Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.124Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.286Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.371Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.459Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.469Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.548Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.631Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.731Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.807Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:28.894Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.073Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.084Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.245Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.423Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.502Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.684Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.696Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.763Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.774Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.852Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.944Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:29.953Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:30.024Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:30.031Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:30.067Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:30.155Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:30.163Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:30.248Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:30.254Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:30.259Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:31.278Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T11:49:31.279Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/15.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ]
+      }
+    }
+  }
+}
