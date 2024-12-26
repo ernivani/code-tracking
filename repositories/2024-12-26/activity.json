@@ -2,9 +2,9 @@
   "date": "2024-12-26",
   "projects": {
     "leetcode-solutions": {
-      "totalLinesAdded": 191,
+      "totalLinesAdded": 220,
       "totalLinesRemoved": 43,
-      "totalActiveTime": 211,
+      "totalActiveTime": 284,
       "files": {
         "extension-output-undefined_publisher.my-code-activity-ext-#1-Code Tracking": [
           {
@@ -171,6 +171,70 @@
           },
           {
             "timestamp": "2024-12-26T11:56:55.284Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:10.272Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:10.273Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:24.563Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:24.564Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:33.850Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:33.850Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:11.458Z",
+            "fileName": "",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:11.457Z",
             "fileName": "",
             "fileType": "unknown",
             "linesAdded": 0,
@@ -381,6 +445,166 @@
           },
           {
             "timestamp": "2024-12-26T11:58:41.088Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:11.882Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:11.884Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:11.881Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:11.884Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:11.940Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:11.941Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:11.941Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:11.940Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:31.693Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:31.693Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:34.721Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:34.718Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:34.719Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:34.721Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:35.123Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:35.124Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:35.124Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:35.124Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:03.731Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:03.731Z",
             "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
             "fileType": ".md",
             "linesAdded": 0,
@@ -1562,6 +1786,70 @@
             "linesAdded": 0,
             "linesRemoved": 0,
             "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:05.053Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:05.052Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:07.414Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:07.414Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:03:12.618Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:03:12.618Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:03:14.233Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:03:14.233Z",
+            "fileName": "git/scm0/input",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
           }
         ],
         "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/74.rs": [
@@ -1974,6 +2262,670 @@
           {
             "timestamp": "2024-12-26T11:57:19.300Z",
             "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/Rust/162.rs.git",
+            "fileType": ".git",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php": [
+          {
+            "timestamp": "2024-12-26T12:00:22.410Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:22.411Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:22.409Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:22.410Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:22.425Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:22.425Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:23.444Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:23.446Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:23.446Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:23.445Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:25.077Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:25.079Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:25.076Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:25.080Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:25.406Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:25.407Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:25.709Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:25.707Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:25.917Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:25.918Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.034Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.034Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.230Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.229Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.487Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.488Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.578Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.577Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.679Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.679Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.898Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:26.899Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:27.923Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:27.923Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:27.922Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:27.923Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:32.301Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:32.302Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:32.301Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:32.301Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:33.318Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:33.321Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:33.321Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:33.320Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:33.765Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:33.764Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:33.763Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:33.763Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:34.138Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:34.139Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:35.150Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:35.148Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:35.150Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:00:35.149Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php.git": [
+          {
+            "timestamp": "2024-12-26T12:01:04.305Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php.git",
+            "fileType": ".git",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:01:04.306Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/PHP/27.php.git",
+            "fileType": ".git",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts": [
+          {
+            "timestamp": "2024-12-26T12:02:10.624Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:10.623Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:10.623Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:10.624Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:11.637Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:11.636Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:11.637Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:11.637Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:12.501Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:12.504Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:12.500Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:12.505Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:13.510Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:13.511Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:13.510Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:13.511Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:14.191Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:14.192Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:14.192Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:14.191Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:15.202Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:15.202Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:15.201Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:02:15.202Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts.git": [
+          {
+            "timestamp": "2024-12-26T12:03:11.082Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts.git",
+            "fileType": ".git",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-26T12:03:11.081Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/TypeScript/26.ts.git",
             "fileType": ".git",
             "linesAdded": 0,
             "linesRemoved": 0,
