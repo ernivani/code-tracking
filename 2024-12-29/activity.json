@@ -207,9 +207,9 @@
       }
     },
     "my-code-activity-ext": {
-      "totalLinesAdded": 2748,
-      "totalLinesRemoved": 18,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 2761,
+      "totalLinesRemoved": 84,
+      "totalActiveTime": 38,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json": [
           {
@@ -301,6 +301,22 @@
             "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T20:00:30.905Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T20:00:32.304Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
           }
         ],
         "c:\\Users\\tlind\\project\\my-code-activity-ext\\package-lock.json": [
@@ -363,6 +379,14 @@
             "linesAdded": 17,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T19:56:57.516Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\github\\auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "my-code-activity-ext"
           }
         ],
         "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\utils\\config.ts": [
@@ -380,6 +404,14 @@
             "fileType": ".ts",
             "linesAdded": 14,
             "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T19:56:57.551Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\utils\\config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 14,
             "projectName": "my-code-activity-ext"
           }
         ],
@@ -407,6 +439,14 @@
             "linesAdded": 18,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T19:56:57.604Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\tracking\\status-bar.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "my-code-activity-ext"
           }
         ],
         "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\github\\repository.ts": [
@@ -424,6 +464,14 @@
             "fileType": ".ts",
             "linesAdded": 27,
             "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T19:56:57.643Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\github\\repository.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 27,
             "projectName": "my-code-activity-ext"
           }
         ],
@@ -463,6 +511,24 @@
             "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\README.md",
             "fileType": ".md",
             "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "c:\\Users\\tlind\\project\\my-code-activity-ext\\.vscodeignore": [
+          {
+            "timestamp": "2024-12-29T19:58:34.094Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.vscodeignore",
+            "fileType": "unknown",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T19:58:36.283Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.vscodeignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           }
