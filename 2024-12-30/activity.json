@@ -2,9 +2,9 @@
   "date": "2024-12-30",
   "projects": {
     "my-code-activity-ext": {
-      "totalLinesAdded": 621,
+      "totalLinesAdded": 912,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts": [
           {
@@ -39,6 +39,26 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/repository.ts": [
+          {
+            "timestamp": "2024-12-29T23:54:53.179Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/repository.ts",
+            "fileType": ".ts",
+            "linesAdded": 224,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json": [
+          {
+            "timestamp": "2024-12-29T23:55:41.957Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json",
+            "fileType": ".json",
+            "linesAdded": 67,
+            "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           }
         ]
