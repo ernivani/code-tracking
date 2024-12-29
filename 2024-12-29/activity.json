@@ -207,7 +207,7 @@
       }
     },
     "my-code-activity-ext": {
-      "totalLinesAdded": 2761,
+      "totalLinesAdded": 2857,
       "totalLinesRemoved": 84,
       "totalActiveTime": 38,
       "files": {
@@ -529,6 +529,16 @@
             "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.vscodeignore",
             "fileType": "unknown",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/README.md": [
+          {
+            "timestamp": "2024-12-29T22:56:30.581Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/README.md",
+            "fileType": ".md",
+            "linesAdded": 96,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           }
