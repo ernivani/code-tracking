@@ -207,9 +207,9 @@
       }
     },
     "my-code-activity-ext": {
-      "totalLinesAdded": 3510,
-      "totalLinesRemoved": 106,
-      "totalActiveTime": 50,
+      "totalLinesAdded": 3542,
+      "totalLinesRemoved": 142,
+      "totalActiveTime": 54,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json": [
           {
@@ -575,6 +575,30 @@
             "linesAdded": 10,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:21:41.378Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:21:44.025Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:21:46.845Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "my-code-activity-ext"
           }
         ],
         "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts": [
@@ -615,6 +639,32 @@
             "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
             "fileType": ".ts",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:21:41.379Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:21:53.092Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/.git/COMMIT_EDITMSG": [
+          {
+            "timestamp": "2024-12-29T23:22:25.948Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/.git/COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 6,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           }
