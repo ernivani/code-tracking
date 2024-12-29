@@ -205,6 +205,31 @@
           }
         ]
       }
+    },
+    "my-code-activity-ext": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json": [
+          {
+            "timestamp": "2024-12-29T18:07:01.786Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json",
+            "fileType": ".json",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T18:07:02.252Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ]
+      }
     }
   }
 }
