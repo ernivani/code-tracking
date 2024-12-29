@@ -207,9 +207,9 @@
       }
     },
     "my-code-activity-ext": {
-      "totalLinesAdded": 3542,
-      "totalLinesRemoved": 142,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 3568,
+      "totalLinesRemoved": 168,
+      "totalActiveTime": 57,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json": [
           {
@@ -599,6 +599,22 @@
             "linesAdded": 0,
             "linesRemoved": 10,
             "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:28:49.662Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:28:52.408Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "my-code-activity-ext"
           }
         ],
         "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts": [
@@ -652,6 +668,30 @@
           },
           {
             "timestamp": "2024-12-29T23:21:53.092Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:28:49.665Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:28:52.409Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:29:08.917Z",
             "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
             "fileType": ".ts",
             "linesAdded": 16,
