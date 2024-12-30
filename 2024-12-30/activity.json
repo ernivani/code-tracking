@@ -302,6 +302,117 @@
           }
         ]
       }
+    },
+    "Leetcode": {
+      "totalLinesAdded": 229,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 12,
+      "files": {
+        "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\2466.cs": [
+          {
+            "timestamp": "2024-12-30T04:57:15.342Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\2466.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T04:57:16.417Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\2466.cs",
+            "fileType": ".cs",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T04:57:23.010Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\2466.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Leetcode"
+          }
+        ],
+        "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\JOURNAL.md": [
+          {
+            "timestamp": "2024-12-30T04:57:24.865Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T04:57:25.874Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T04:57:45.138Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T04:59:06.918Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          }
+        ],
+        "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\README.md": [
+          {
+            "timestamp": "2024-12-30T04:57:49.929Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\README.md",
+            "fileType": ".md",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T04:57:50.728Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\README.md",
+            "fileType": ".md",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          }
+        ],
+        "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\34.cs": [
+          {
+            "timestamp": "2024-12-30T04:58:58.322Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\34.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T04:58:59.388Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\34.cs",
+            "fileType": ".cs",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T04:59:07.588Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\34.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Leetcode"
+          }
+        ]
+      }
     }
   }
 }
