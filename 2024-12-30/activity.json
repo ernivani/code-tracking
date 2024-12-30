@@ -304,9 +304,9 @@
       }
     },
     "Leetcode": {
-      "totalLinesAdded": 229,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 12,
+      "totalLinesAdded": 321,
+      "totalLinesRemoved": 57,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\2466.cs": [
           {
@@ -366,6 +366,14 @@
             "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T05:02:18.982Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\JOURNAL.md",
+            "fileType": ".md",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
           }
         ],
         "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\README.md": [
@@ -409,6 +417,80 @@
             "fileType": ".cs",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "Leetcode"
+          }
+        ],
+        "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\3021.cs": [
+          {
+            "timestamp": "2024-12-30T05:02:10.381Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\3021.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T05:02:11.487Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\3021.cs",
+            "fileType": ".cs",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T05:03:01.665Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\3021.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T05:04:08.123Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\3021.cs",
+            "fileType": ".cs",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T05:04:22.060Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\3021.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T05:04:25.911Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\3021.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T05:04:28.143Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\3021.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T05:04:49.284Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\3021.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 30,
+            "projectName": "Leetcode"
+          },
+          {
+            "timestamp": "2024-12-30T05:05:05.197Z",
+            "fileName": "c:\\Users\\tlind\\OneDrive\\Documents\\Leetcode\\C#\\3021.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "Leetcode"
           }
         ]
