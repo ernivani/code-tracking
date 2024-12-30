@@ -103,9 +103,9 @@
       }
     },
     "rareicon": {
-      "totalLinesAdded": 164,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 208,
+      "totalLinesRemoved": 21,
+      "totalActiveTime": 29,
       "files": {
         "d:\\KBVE\\rareicon\\Assets\\Vuplex\\WebView\\Standalone\\Windows\\Plugins\\VuplexWebViewChromium\\log-chromium.txt~": [
           {
@@ -146,6 +146,136 @@
             "timestamp": "2024-12-30T04:09:24.432Z",
             "fileName": "d:\\KBVE\\rareicon\\.gitignore",
             "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          }
+        ],
+        "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs": [
+          {
+            "timestamp": "2024-12-30T04:14:01.027Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:14:13.456Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:14:19.424Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:14:26.714Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:14:30.917Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:15:15.255Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:15:19.823Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:15:21.334Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:15:26.948Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:15:28.887Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:15:38.648Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:16:26.518Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:16:28.381Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:16:30.316Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:16:32.378Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "rareicon"
+          },
+          {
+            "timestamp": "2024-12-30T04:16:35.606Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\TopDownEngine\\Common\\Scripts\\GUI\\LinkHandler.cs",
+            "fileType": ".cs",
             "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "rareicon"
