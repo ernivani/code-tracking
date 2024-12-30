@@ -101,6 +101,33 @@
           }
         ]
       }
+    },
+    "rareicon": {
+      "totalLinesAdded": 161,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "d:\\KBVE\\rareicon\\Assets\\Vuplex\\WebView\\Standalone\\Windows\\Plugins\\VuplexWebViewChromium\\log-chromium.txt~": [
+          {
+            "timestamp": "2024-12-30T04:03:21.106Z",
+            "fileName": "d:\\KBVE\\rareicon\\Assets\\Vuplex\\WebView\\Standalone\\Windows\\Plugins\\VuplexWebViewChromium\\log-chromium.txt~",
+            "fileType": ".txt~",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          }
+        ],
+        "d:\\KBVE\\rareicon\\.gitignore": [
+          {
+            "timestamp": "2024-12-30T04:06:37.890Z",
+            "fileName": "d:\\KBVE\\rareicon\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "rareicon"
+          }
+        ]
+      }
     }
   }
 }

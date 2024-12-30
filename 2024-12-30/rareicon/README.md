@@ -1,19 +1,18 @@
-# my-code-activity-ext - Activity Summary 
+# rareicon - Activity Summary 
 
 ## Overall Statistics
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 350                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 346                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Lines Added** (➕)   | 161                                          |
+| **Lines Removed** (➖) | 0                                        |
+| **Net Change** (↕)    | 161                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **bug_report.md** (+36, -0)
-- **repository.ts** (+280, -0)
-- **pull_request_template.md** (+34, -4)
+- **log-chromium.txt~** (+80, -0)
+- **.gitignore** (+81, -0)
 
 ## Visualizations
 
@@ -22,8 +21,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".md" : 74
-".ts" : 280
+".txt~" : 80
+"unknown" : 81
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +30,7 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"03h" : 11
+"05h" : 2
 ```
 
 
