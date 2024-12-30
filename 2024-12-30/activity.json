@@ -2,9 +2,9 @@
   "date": "2024-12-30",
   "projects": {
     "my-code-activity-ext": {
-      "totalLinesAdded": 912,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 939,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 15,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts": [
           {
@@ -58,6 +58,48 @@
             "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json",
             "fileType": ".json",
             "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:59:36.528Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/resources/images/icon.svg": [
+          {
+            "timestamp": "2024-12-29T23:59:30.174Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/resources/images/icon.svg",
+            "fileType": ".svg",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:59:31.248Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/resources/images/icon.svg",
+            "fileType": ".svg",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-29T23:59:38.017Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/resources/images/icon.svg",
+            "fileType": ".svg",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-30T00:03:08.402Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/resources/images/icon.svg",
+            "fileType": ".svg",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           }
