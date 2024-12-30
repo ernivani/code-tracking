@@ -2,9 +2,9 @@
   "date": "2024-12-30",
   "projects": {
     "my-code-activity-ext": {
-      "totalLinesAdded": 36,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 348,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\bug_report.md": [
           {
@@ -36,6 +36,58 @@
             "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\bug_report.md",
             "fileType": ".md",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\github\\repository.ts": [
+          {
+            "timestamp": "2024-12-30T02:48:36.464Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\github\\repository.ts",
+            "fileType": ".ts",
+            "linesAdded": 224,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-30T02:48:39.127Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\github\\repository.ts",
+            "fileType": ".ts",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-30T02:48:51.802Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\github\\repository.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\pull_request_template.md": [
+          {
+            "timestamp": "2024-12-30T02:50:22.088Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\pull_request_template.md",
+            "fileType": ".md",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-30T02:50:22.948Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\pull_request_template.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2024-12-30T02:51:09.114Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\pull_request_template.md",
+            "fileType": ".md",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           }
