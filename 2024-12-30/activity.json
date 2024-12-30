@@ -2,212 +2,40 @@
   "date": "2024-12-30",
   "projects": {
     "my-code-activity-ext": {
-      "totalLinesAdded": 1205,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 36,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
       "files": {
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts": [
+        "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\bug_report.md": [
           {
-            "timestamp": "2024-12-29T23:50:18.505Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
-            "fileType": ".ts",
-            "linesAdded": 508,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          }
-        ],
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts": [
-          {
-            "timestamp": "2024-12-29T23:50:18.507Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
-            "fileType": ".ts",
-            "linesAdded": 97,
+            "timestamp": "2024-12-30T02:41:08.352Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\bug_report.md",
+            "fileType": ".md",
+            "linesAdded": 30,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           },
           {
-            "timestamp": "2024-12-29T23:50:18.897Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
-            "fileType": ".ts",
-            "linesAdded": 16,
+            "timestamp": "2024-12-30T02:41:09.136Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\bug_report.md",
+            "fileType": ".md",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           },
           {
-            "timestamp": "2024-12-29T23:50:22.344Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
-            "fileType": ".ts",
-            "linesAdded": 0,
-            "linesRemoved": 3,
-            "projectName": "my-code-activity-ext"
-          }
-        ],
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/repository.ts": [
-          {
-            "timestamp": "2024-12-29T23:54:53.179Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/repository.ts",
-            "fileType": ".ts",
-            "linesAdded": 224,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          }
-        ],
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json": [
-          {
-            "timestamp": "2024-12-29T23:55:41.957Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json",
-            "fileType": ".json",
-            "linesAdded": 67,
+            "timestamp": "2024-12-30T02:42:08.018Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\bug_report.md",
+            "fileType": ".md",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           },
           {
-            "timestamp": "2024-12-29T23:59:36.528Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json",
-            "fileType": ".json",
-            "linesAdded": 1,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          }
-        ],
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/resources/images/icon.svg": [
-          {
-            "timestamp": "2024-12-29T23:59:30.174Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/resources/images/icon.svg",
-            "fileType": ".svg",
-            "linesAdded": 1,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          },
-          {
-            "timestamp": "2024-12-29T23:59:31.248Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/resources/images/icon.svg",
-            "fileType": ".svg",
-            "linesAdded": 14,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          },
-          {
-            "timestamp": "2024-12-29T23:59:38.017Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/resources/images/icon.svg",
-            "fileType": ".svg",
-            "linesAdded": 0,
-            "linesRemoved": 3,
-            "projectName": "my-code-activity-ext"
-          },
-          {
-            "timestamp": "2024-12-30T00:03:08.402Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/resources/images/icon.svg",
-            "fileType": ".svg",
-            "linesAdded": 11,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          }
-        ],
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/CODE_OF_CONDUCT.md": [
-          {
-            "timestamp": "2024-12-30T00:26:22.308Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/CODE_OF_CONDUCT.md",
+            "timestamp": "2024-12-30T02:42:53.060Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\bug_report.md",
             "fileType": ".md",
             "linesAdded": 1,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          },
-          {
-            "timestamp": "2024-12-30T00:26:23.370Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/CODE_OF_CONDUCT.md",
-            "fileType": ".md",
-            "linesAdded": 56,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          }
-        ],
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/CONTRIBUTING.md": [
-          {
-            "timestamp": "2024-12-30T00:26:34.316Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/CONTRIBUTING.md",
-            "fileType": ".md",
-            "linesAdded": 1,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          },
-          {
-            "timestamp": "2024-12-30T00:26:35.379Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/CONTRIBUTING.md",
-            "fileType": ".md",
-            "linesAdded": 77,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          }
-        ],
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/SECURITY.md": [
-          {
-            "timestamp": "2024-12-30T00:26:45.383Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/SECURITY.md",
-            "fileType": ".md",
-            "linesAdded": 1,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          },
-          {
-            "timestamp": "2024-12-30T00:26:46.441Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/SECURITY.md",
-            "fileType": ".md",
-            "linesAdded": 51,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          }
-        ],
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/.github/ISSUE_TEMPLATE/bug_report.md": [
-          {
-            "timestamp": "2024-12-30T00:27:01.477Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/.github/ISSUE_TEMPLATE/bug_report.md",
-            "fileType": ".md",
-            "linesAdded": 1,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          },
-          {
-            "timestamp": "2024-12-30T00:27:02.555Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/.github/ISSUE_TEMPLATE/bug_report.md",
-            "fileType": ".md",
-            "linesAdded": 29,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          }
-        ],
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/.github/ISSUE_TEMPLATE/feature_request.md": [
-          {
-            "timestamp": "2024-12-30T00:27:07.172Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/.github/ISSUE_TEMPLATE/feature_request.md",
-            "fileType": ".md",
-            "linesAdded": 1,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          },
-          {
-            "timestamp": "2024-12-30T00:27:08.234Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/.github/ISSUE_TEMPLATE/feature_request.md",
-            "fileType": ".md",
-            "linesAdded": 18,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          }
-        ],
-        "/Users/thomaslindeker/Documents/my-code-activity-ext/.github/pull_request_template.md": [
-          {
-            "timestamp": "2024-12-30T00:27:14.226Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/.github/pull_request_template.md",
-            "fileType": ".md",
-            "linesAdded": 1,
-            "linesRemoved": 0,
-            "projectName": "my-code-activity-ext"
-          },
-          {
-            "timestamp": "2024-12-30T00:27:15.294Z",
-            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/.github/pull_request_template.md",
-            "fileType": ".md",
-            "linesAdded": 29,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           }
