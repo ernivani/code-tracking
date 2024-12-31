@@ -2,9 +2,9 @@
   "date": "2024-12-31",
   "projects": {
     "leetcode-solutions": {
-      "totalLinesAdded": 67,
+      "totalLinesAdded": 189,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 7,
       "files": {
         "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md": [
           {
@@ -20,6 +20,60 @@
             "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/JOURNAL.md",
             "fileType": ".md",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/README.md": [
+          {
+            "timestamp": "2024-12-31T02:12:56.729Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/README.md",
+            "fileType": ".md",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/C++/983.cpp": [
+          {
+            "timestamp": "2024-12-31T02:13:15.041Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/983.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-31T02:13:16.055Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/983.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-31T02:13:20.962Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/983.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          },
+          {
+            "timestamp": "2024-12-31T02:13:23.999Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/C++/983.cpp",
+            "fileType": ".cpp",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "leetcode-solutions"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/leetcode-solutions/.vscode/settings.json": [
+          {
+            "timestamp": "2024-12-31T02:14:26.661Z",
+            "fileName": "/Users/thomaslindeker/Documents/leetcode-solutions/.vscode/settings.json",
+            "fileType": ".json",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "leetcode-solutions"
           }
