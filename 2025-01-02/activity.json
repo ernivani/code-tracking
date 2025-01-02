@@ -245,9 +245,9 @@
       }
     },
     "3dRust": {
-      "totalLinesAdded": 4195,
+      "totalLinesAdded": 5075,
       "totalLinesRemoved": 1068,
-      "totalActiveTime": 213,
+      "totalActiveTime": 218,
       "files": {
         "/Users/thomaslindeker/RustroverProjects/3dRust/Cargo.toml": [
           {
@@ -1283,6 +1283,30 @@
             "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T03:32:39.436Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 830,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T03:32:40.445Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T03:32:46.878Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
           }
         ],
         "/Users/thomaslindeker/RustroverProjects/3dRust/src/gl_utils.rs": [
@@ -1557,6 +1581,22 @@
             "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/block.frag",
             "fileType": ".frag",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T03:31:05.051Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/block.frag",
+            "fileType": ".frag",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T03:31:06.057Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/block.frag",
+            "fileType": ".frag",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "3dRust"
           }
