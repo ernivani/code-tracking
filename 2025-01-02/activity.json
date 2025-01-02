@@ -245,9 +245,9 @@
       }
     },
     "3dRust": {
-      "totalLinesAdded": 6501,
+      "totalLinesAdded": 6633,
       "totalLinesRemoved": 1360,
-      "totalActiveTime": 238,
+      "totalActiveTime": 243,
       "files": {
         "/Users/thomaslindeker/RustroverProjects/3dRust/Cargo.toml": [
           {
@@ -1394,6 +1394,22 @@
             "fileType": ".rs",
             "linesAdded": 0,
             "linesRemoved": 271,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:34:16.162Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:34:47.414Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 102,
+            "linesRemoved": 0,
             "projectName": "3dRust"
           }
         ],
