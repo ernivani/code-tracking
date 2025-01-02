@@ -245,9 +245,9 @@
       }
     },
     "3dRust": {
-      "totalLinesAdded": 875,
+      "totalLinesAdded": 1150,
       "totalLinesRemoved": 461,
-      "totalActiveTime": 37,
+      "totalActiveTime": 45,
       "files": {
         "/Users/thomaslindeker/RustroverProjects/3dRust/Cargo.toml": [
           {
@@ -499,6 +499,22 @@
             "linesAdded": 23,
             "linesRemoved": 0,
             "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T01:45:20.389Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T01:47:25.659Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
           }
         ],
         "/Users/thomaslindeker/RustroverProjects/3dRust/src/gl_utils.rs": [
@@ -523,6 +539,24 @@
             "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/gl_utils.rs",
             "fileType": ".rs",
             "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          }
+        ],
+        "/Users/thomaslindeker/RustroverProjects/3dRust/src/math.rs": [
+          {
+            "timestamp": "2025-01-02T01:44:54.956Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/math.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T01:44:56.006Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/math.rs",
+            "fileType": ".rs",
+            "linesAdded": 196,
             "linesRemoved": 0,
             "projectName": "3dRust"
           }
