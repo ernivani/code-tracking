@@ -1,0 +1,64 @@
+{
+  "date": "2025-01-02",
+  "projects": {
+    "ai": {
+      "totalLinesAdded": 56,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/thomaslindeker/ai/main.py": [
+          {
+            "timestamp": "2025-01-02T00:39:04.919Z",
+            "fileName": "/Users/thomaslindeker/ai/main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ai"
+          },
+          {
+            "timestamp": "2025-01-02T00:39:05.938Z",
+            "fileName": "/Users/thomaslindeker/ai/main.py",
+            "fileType": ".py",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "ai"
+          },
+          {
+            "timestamp": "2025-01-02T00:41:48.366Z",
+            "fileName": "/Users/thomaslindeker/ai/main.py",
+            "fileType": ".py",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "ai"
+          },
+          {
+            "timestamp": "2025-01-02T00:42:20.717Z",
+            "fileName": "/Users/thomaslindeker/ai/main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "ai"
+          }
+        ],
+        "/Users/thomaslindeker/ai/download.py": [
+          {
+            "timestamp": "2025-01-02T00:40:43.617Z",
+            "fileName": "/Users/thomaslindeker/ai/download.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ai"
+          },
+          {
+            "timestamp": "2025-01-02T00:40:44.630Z",
+            "fileName": "/Users/thomaslindeker/ai/download.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "ai"
+          }
+        ]
+      }
+    }
+  }
+}
