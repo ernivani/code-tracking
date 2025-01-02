@@ -246,8 +246,8 @@
     },
     "3dRust": {
       "totalLinesAdded": 1426,
-      "totalLinesRemoved": 527,
-      "totalActiveTime": 79,
+      "totalLinesRemoved": 530,
+      "totalActiveTime": 80,
       "files": {
         "/Users/thomaslindeker/RustroverProjects/3dRust/Cargo.toml": [
           {
@@ -626,6 +626,14 @@
             "fileType": ".rs",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T02:08:10.602Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "3dRust"
           }
         ],
