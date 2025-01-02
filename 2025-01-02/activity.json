@@ -245,9 +245,9 @@
       }
     },
     "3dRust": {
-      "totalLinesAdded": 6820,
+      "totalLinesAdded": 6993,
       "totalLinesRemoved": 1486,
-      "totalActiveTime": 257,
+      "totalActiveTime": 272,
       "files": {
         "/Users/thomaslindeker/RustroverProjects/3dRust/Cargo.toml": [
           {
@@ -1475,6 +1475,46 @@
             "linesAdded": 0,
             "linesRemoved": 62,
             "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:49:25.998Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:49:33.974Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:49:41.753Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:49:43.875Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:52:15.523Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
           }
         ],
         "/Users/thomaslindeker/RustroverProjects/3dRust/src/gl_utils.rs": [
@@ -1841,6 +1881,42 @@
           {
             "timestamp": "2025-01-02T16:26:57.072Z",
             "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/crosshair.frag",
+            "fileType": ".frag",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          }
+        ],
+        "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/outline.vert": [
+          {
+            "timestamp": "2025-01-02T16:48:50.747Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/outline.vert",
+            "fileType": ".vert",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:48:51.836Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/outline.vert",
+            "fileType": ".vert",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          }
+        ],
+        "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/outline.frag": [
+          {
+            "timestamp": "2025-01-02T16:48:56.064Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/outline.frag",
+            "fileType": ".frag",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:48:58.002Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/outline.frag",
             "fileType": ".frag",
             "linesAdded": 5,
             "linesRemoved": 0,
