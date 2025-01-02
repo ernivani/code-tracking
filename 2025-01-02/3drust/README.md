@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6993                                          |
-| **Lines Removed** (➖) | 1486                                        |
-| **Net Change** (↕)    | 5507                |
-| **Active Time** (⌚)   | 272 minutes |
+| **Lines Added** (➕)   | 7437                                          |
+| **Lines Removed** (➖) | 2089                                        |
+| **Net Change** (↕)    | 5348                |
+| **Active Time** (⌚)   | 282 minutes |
 
 
 ## Modified Files
 - **Cargo.toml** (+29, -6)
-- **main.rs** (+5287, -1346)
+- **main.rs** (+5721, -1939)
 - **gl_utils.rs** (+901, -33)
 - **math.rs** (+491, -39)
 - **shader.vert** (+21, -0)
@@ -23,7 +23,7 @@
 - **crosshair.vert** (+6, -0)
 - **crosshair.frag** (+6, -0)
 - **outline.vert** (+8, -0)
-- **outline.frag** (+6, -0)
+- **outline.frag** (+16, -10)
 
 ## Visualizations
 
@@ -33,9 +33,9 @@
 pie showData
 title Lines changed by file type
 ".toml" : 35
-".rs" : 8097
+".rs" : 9124
 ".vert" : 114
-".frag" : 221
+".frag" : 241
 ".txt" : 12
 ```
 
@@ -47,8 +47,8 @@ title Coding activity by hour (count of changes)
 "02h" : 47
 "03h" : 83
 "04h" : 39
-"17h" : 37
+"17h" : 46
 ```
 
 
-> **Last Updated:** 02/01/2025 17:52:30
+> **Last Updated:** 02/01/2025 17:57:30
