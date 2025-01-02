@@ -1,18 +1,18 @@
-# ai - Activity Summary 
+# 3dRust - Activity Summary 
 
 ## Overall Statistics
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 293                                          |
-| **Lines Removed** (➖) | 81                                        |
-| **Net Change** (↕)    | 212                |
-| **Active Time** (⌚)   | 40 minutes |
+| **Lines Added** (➕)   | 390                                          |
+| **Lines Removed** (➖) | 373                                        |
+| **Net Change** (↕)    | 17                |
+| **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
-- **main.py** (+284, -81)
-- **download.py** (+9, -0)
+- **Cargo.toml** (+13, -5)
+- **main.rs** (+377, -368)
 
 ## Visualizations
 
@@ -21,7 +21,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 374
+".toml" : 18
+".rs" : 745
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +30,7 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"01h" : 25
-"02h" : 4
+"02h" : 10
 ```
 
 
