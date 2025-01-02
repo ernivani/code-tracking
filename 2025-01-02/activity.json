@@ -245,9 +245,9 @@
       }
     },
     "3dRust": {
-      "totalLinesAdded": 5075,
-      "totalLinesRemoved": 1068,
-      "totalActiveTime": 218,
+      "totalLinesAdded": 6254,
+      "totalLinesRemoved": 1069,
+      "totalActiveTime": 229,
       "files": {
         "/Users/thomaslindeker/RustroverProjects/3dRust/Cargo.toml": [
           {
@@ -1307,6 +1307,30 @@
             "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:27:12.444Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 838,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:27:16.811Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:27:22.368Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/main.rs",
+            "fileType": ".rs",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
           }
         ],
         "/Users/thomaslindeker/RustroverProjects/3dRust/src/gl_utils.rs": [
@@ -1372,6 +1396,30 @@
             "fileType": ".rs",
             "linesAdded": 0,
             "linesRemoved": 16,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:23:43.355Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/gl_utils.rs",
+            "fileType": ".rs",
+            "linesAdded": 284,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:23:44.369Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/gl_utils.rs",
+            "fileType": ".rs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:23:56.717Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/gl_utils.rs",
+            "fileType": ".rs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "3dRust"
           }
         ],
@@ -1615,6 +1663,42 @@
             "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/out.txt",
             "fileType": ".txt",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          }
+        ],
+        "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/crosshair.vert": [
+          {
+            "timestamp": "2025-01-02T16:26:50.216Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/crosshair.vert",
+            "fileType": ".vert",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:26:51.244Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/crosshair.vert",
+            "fileType": ".vert",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          }
+        ],
+        "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/crosshair.frag": [
+          {
+            "timestamp": "2025-01-02T16:26:55.990Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/crosshair.frag",
+            "fileType": ".frag",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "3dRust"
+          },
+          {
+            "timestamp": "2025-01-02T16:26:57.072Z",
+            "fileName": "/Users/thomaslindeker/RustroverProjects/3dRust/src/assets/shaders/crosshair.frag",
+            "fileType": ".frag",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "3dRust"
           }
