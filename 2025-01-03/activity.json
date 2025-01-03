@@ -1450,6 +1450,47 @@
           }
         ]
       }
+    },
+    "deps-cleaner": {
+      "totalLinesAdded": 59,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/thomaslindeker/Documents/deps-cleaner/install.sh": [
+          {
+            "timestamp": "2025-01-03T04:54:09.556Z",
+            "fileName": "/Users/thomaslindeker/Documents/deps-cleaner/install.sh",
+            "fileType": ".sh",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "deps-cleaner"
+          },
+          {
+            "timestamp": "2025-01-03T04:54:10.623Z",
+            "fileName": "/Users/thomaslindeker/Documents/deps-cleaner/install.sh",
+            "fileType": ".sh",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "deps-cleaner"
+          },
+          {
+            "timestamp": "2025-01-03T04:54:24.354Z",
+            "fileName": "/Users/thomaslindeker/Documents/deps-cleaner/install.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "deps-cleaner"
+          },
+          {
+            "timestamp": "2025-01-03T04:54:30.646Z",
+            "fileName": "/Users/thomaslindeker/Documents/deps-cleaner/install.sh",
+            "fileType": ".sh",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "deps-cleaner"
+          }
+        ]
+      }
     }
   }
 }
