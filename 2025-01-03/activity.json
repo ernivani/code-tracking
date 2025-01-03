@@ -1801,9 +1801,9 @@
       }
     },
     "impin.fr": {
-      "totalLinesAdded": 738,
-      "totalLinesRemoved": 43,
-      "totalActiveTime": 36,
+      "totalLinesAdded": 1087,
+      "totalLinesRemoved": 53,
+      "totalActiveTime": 49,
       "files": {
         "/Users/thomaslindeker/Documents/repo/impin.fr/next.config.mjs": [
           {
@@ -2046,6 +2046,92 @@
             "fileType": ".tsx",
             "linesAdded": 48,
             "linesRemoved": 0,
+            "projectName": "impin.fr"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/repo/impin.fr/components/Features.tsx": [
+          {
+            "timestamp": "2025-01-03T06:03:12.667Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "impin.fr"
+          },
+          {
+            "timestamp": "2025-01-03T06:03:15.159Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "impin.fr"
+          },
+          {
+            "timestamp": "2025-01-03T06:04:31.378Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "impin.fr"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/repo/impin.fr/components/Services.tsx": [
+          {
+            "timestamp": "2025-01-03T06:03:25.129Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/Services.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "impin.fr"
+          },
+          {
+            "timestamp": "2025-01-03T06:03:28.084Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/Services.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "impin.fr"
+          },
+          {
+            "timestamp": "2025-01-03T06:04:36.438Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/Services.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "impin.fr"
+          },
+          {
+            "timestamp": "2025-01-03T06:06:52.241Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/Services.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "impin.fr"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/repo/impin.fr/components/Team.tsx": [
+          {
+            "timestamp": "2025-01-03T06:03:40.730Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/Team.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 142,
+            "linesRemoved": 0,
+            "projectName": "impin.fr"
+          },
+          {
+            "timestamp": "2025-01-03T06:03:43.334Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/Team.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "impin.fr"
+          },
+          {
+            "timestamp": "2025-01-03T06:04:44.883Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/Team.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "impin.fr"
           }
         ]
