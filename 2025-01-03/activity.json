@@ -80,8 +80,8 @@
     },
     "tinycms": {
       "totalLinesAdded": 4839,
-      "totalLinesRemoved": 424,
-      "totalActiveTime": 130,
+      "totalLinesRemoved": 450,
+      "totalActiveTime": 134,
       "files": {
         "/Users/thomaslindeker/WebstormProjects/tinycms/pages/auth/login.tsx": [
           {
@@ -648,6 +648,22 @@
             "fileType": ".tsx",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "tinycms"
+          },
+          {
+            "timestamp": "2025-01-03T04:15:02.016Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/components/utils/Editor/EditLabels.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "tinycms"
+          },
+          {
+            "timestamp": "2025-01-03T04:15:53.431Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/components/utils/Editor/EditLabels.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
             "projectName": "tinycms"
           }
         ],
