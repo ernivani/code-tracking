@@ -3795,9 +3795,9 @@
       }
     },
     "my-code-activity-ext": {
-      "totalLinesAdded": 965,
+      "totalLinesAdded": 1070,
       "totalLinesRemoved": 165,
-      "totalActiveTime": 32,
+      "totalActiveTime": 34,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/src/extension.ts": [
           {
@@ -3906,6 +3906,14 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 15,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T18:28:47.884Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/utils/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 15,
+            "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           }
         ],
@@ -4065,6 +4073,24 @@
             "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/docs/issue-8-response.md",
             "fileType": ".md",
             "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/src/ai/ollama.ts": [
+          {
+            "timestamp": "2025-01-03T18:28:30.521Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/ai/ollama.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T18:28:31.890Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/ai/ollama.ts",
+            "fileType": ".ts",
+            "linesAdded": 89,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           }
