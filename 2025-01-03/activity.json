@@ -2336,6 +2336,33 @@
           }
         ]
       }
+    },
+    "nextjs-webllm": {
+      "totalLinesAdded": 30,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/package.json": [
+          {
+            "timestamp": "2025-01-03T07:43:20.685Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/package.json",
+            "fileType": ".json",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/ChatClient.tsx": [
+          {
+            "timestamp": "2025-01-03T07:43:49.892Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/ChatClient.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ]
+      }
     }
   }
 }
