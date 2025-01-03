@@ -4,7 +4,7 @@
     "my-code-activity-ext": {
       "totalLinesAdded": 98,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 8,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts": [
           {
@@ -95,6 +95,54 @@
           },
           {
             "timestamp": "2025-01-03T21:40:48.924Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:42:50.597Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:42:54.362Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:45:56.243Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:45:58.119Z",
             "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
             "fileType": ".md",
             "linesAdded": 0,
