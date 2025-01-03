@@ -77,6 +77,41 @@
           }
         ]
       }
+    },
+    "tinycms": {
+      "totalLinesAdded": 432,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/thomaslindeker/WebstormProjects/tinycms/pages/auth/login.tsx": [
+          {
+            "timestamp": "2025-01-03T02:57:32.417Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/pages/auth/login.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "tinycms"
+          },
+          {
+            "timestamp": "2025-01-03T02:57:34.118Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/pages/auth/login.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tinycms"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/tinycms/pages/dashboard/newsite.tsx": [
+          {
+            "timestamp": "2025-01-03T02:58:31.510Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/pages/dashboard/newsite.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 365,
+            "linesRemoved": 0,
+            "projectName": "tinycms"
+          }
+        ]
+      }
     }
   }
 }
