@@ -79,9 +79,9 @@
       }
     },
     "tinycms": {
-      "totalLinesAdded": 3280,
-      "totalLinesRemoved": 298,
-      "totalActiveTime": 84,
+      "totalLinesAdded": 3498,
+      "totalLinesRemoved": 301,
+      "totalActiveTime": 93,
       "files": {
         "/Users/thomaslindeker/WebstormProjects/tinycms/pages/auth/login.tsx": [
           {
@@ -407,6 +407,38 @@
             "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "tinycms"
+          },
+          {
+            "timestamp": "2025-01-03T03:45:13.967Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/components/utils/Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "tinycms"
+          },
+          {
+            "timestamp": "2025-01-03T03:46:22.856Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/components/utils/Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "tinycms"
+          },
+          {
+            "timestamp": "2025-01-03T03:47:16.644Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/components/utils/Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "tinycms"
+          },
+          {
+            "timestamp": "2025-01-03T03:48:00.018Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/components/utils/Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "tinycms"
           }
         ],
         "/Users/thomaslindeker/WebstormProjects/tinycms/pages/api/site/pages.ts": [
@@ -721,6 +753,32 @@
             "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/content/page/home.md",
             "fileType": ".md",
             "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "tinycms"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/tinycms/pages/api/site/page/[slug].ts": [
+          {
+            "timestamp": "2025-01-03T03:47:01.312Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/pages/api/site/page/[slug].ts",
+            "fileType": ".ts",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "tinycms"
+          },
+          {
+            "timestamp": "2025-01-03T03:47:03.854Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/pages/api/site/page/[slug].ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "tinycms"
+          },
+          {
+            "timestamp": "2025-01-03T03:49:14.672Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/pages/api/site/page/[slug].ts",
+            "fileType": ".ts",
+            "linesAdded": 32,
             "linesRemoved": 0,
             "projectName": "tinycms"
           }
