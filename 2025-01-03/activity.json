@@ -3795,9 +3795,9 @@
       }
     },
     "my-code-activity-ext": {
-      "totalLinesAdded": 1751,
+      "totalLinesAdded": 1752,
       "totalLinesRemoved": 166,
-      "totalActiveTime": 60,
+      "totalActiveTime": 62,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/src/extension.ts": [
           {
@@ -4291,6 +4291,16 @@
             "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/__mocks__/vscode.ts",
             "fileType": ".ts",
             "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/.watchmanconfig": [
+          {
+            "timestamp": "2025-01-03T18:40:42.821Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/.watchmanconfig",
+            "fileType": "unknown",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
           }
