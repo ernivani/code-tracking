@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6331                                          |
-| **Lines Removed** (➖) | 478                                        |
-| **Net Change** (↕)    | 5853                |
-| **Active Time** (⌚)   | 208 minutes |
+| **Lines Added** (➕)   | 8720                                          |
+| **Lines Removed** (➖) | 1390                                        |
+| **Net Change** (↕)    | 7330                |
+| **Active Time** (⌚)   | 225 minutes |
 
 
 ## Modified Files
 - **login.tsx** (+68, -1)
 - **newsite.tsx** (+366, -0)
-- **package.json** (+73, -0)
+- **package.json** (+150, -0)
 - **menu.tsx** (+231, -24)
 - **IconSettings.tsx** (+79, -2)
 - **COMMIT_EDITMSG** (+13, -3)
@@ -31,17 +31,20 @@
 - **[slug].ts** (+107, -0)
 - **markdown.ts** (+51, -0)
 - **CreateSiteForm.tsx** (+280, -0)
-- **index.ts** (+883, -0)
+- **index.ts** (+2617, -851)
 - **features.md** (+27, -0)
 - **Title.tsx** (+57, -3)
-- **Header.tsx** (+349, -1)
+- **Header.tsx** (+697, -1)
 - **Menu.tsx** (+123, -0)
 - **EditMenu.tsx** (+242, -0)
 - **ImageEditor.tsx** (+47, -2)
-- **admin.tsx** (+197, -0)
+- **admin.tsx** (+200, -0)
 - **index.ts** (+48, -0)
 - **[id].ts** (+51, -0)
 - **update.ts** (+83, -0)
+- **DashboardLayout.tsx** (+18, -0)
+- **_app.tsx** (+204, -61)
+- **prisma.ts** (+5, -0)
 
 ## Visualizations
 
@@ -50,10 +53,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4671
-".json" : 73
+".tsx" : 5305
+".json" : 150
 "unknown" : 16
-".ts" : 1702
+".ts" : 4292
 ".md" : 347
 ```
 
@@ -65,8 +68,8 @@ title Coding activity by hour (count of changes)
 "03h" : 3
 "04h" : 95
 "05h" : 66
-"06h" : 10
+"06h" : 26
 ```
 
 
-> **Last Updated:** 03/01/2025 06:24:05
+> **Last Updated:** 03/01/2025 06:29:05
