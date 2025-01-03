@@ -109,7 +109,7 @@
     "my-code-activity-ext": {
       "totalLinesAdded": 835,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 70,
+      "totalActiveTime": 73,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/package.json": [
           {
@@ -1090,6 +1090,30 @@
           },
           {
             "timestamp": "2025-01-03T21:54:51.667Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/README.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:55:35.878Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/README.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:56:53.230Z",
             "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/README.md",
             "fileType": ".md",
             "linesAdded": 0,
