@@ -1801,9 +1801,9 @@
       }
     },
     "impin.fr": {
-      "totalLinesAdded": 426,
-      "totalLinesRemoved": 34,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 599,
+      "totalLinesRemoved": 39,
+      "totalActiveTime": 28,
       "files": {
         "/Users/thomaslindeker/Documents/repo/impin.fr/next.config.mjs": [
           {
@@ -1935,6 +1935,14 @@
             "linesAdded": 0,
             "linesRemoved": 1,
             "projectName": "impin.fr"
+          },
+          {
+            "timestamp": "2025-01-03T05:56:48.851Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/HowItWorks.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "impin.fr"
           }
         ],
         "/Users/thomaslindeker/Documents/repo/impin.fr/app/globals.css": [
@@ -1968,6 +1976,32 @@
             "fileType": ".css",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "impin.fr"
+          },
+          {
+            "timestamp": "2025-01-03T05:53:42.650Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "impin.fr"
+          },
+          {
+            "timestamp": "2025-01-03T05:53:50.233Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "impin.fr"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/repo/impin.fr/components/HeroCards.tsx": [
+          {
+            "timestamp": "2025-01-03T05:55:48.593Z",
+            "fileName": "/Users/thomaslindeker/Documents/repo/impin.fr/components/HeroCards.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 171,
+            "linesRemoved": 0,
             "projectName": "impin.fr"
           }
         ]
