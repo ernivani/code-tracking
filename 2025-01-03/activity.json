@@ -2338,9 +2338,9 @@
       }
     },
     "nextjs-webllm": {
-      "totalLinesAdded": 264,
+      "totalLinesAdded": 443,
       "totalLinesRemoved": 87,
-      "totalActiveTime": 8,
+      "totalActiveTime": 14,
       "files": {
         "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/package.json": [
           {
@@ -2393,6 +2393,70 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 87,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/layout.tsx": [
+          {
+            "timestamp": "2025-01-03T07:53:12.218Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:53:13.237Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/config/client": [
+          {
+            "timestamp": "2025-01-03T07:53:34.293Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/config/client",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:53:35.302Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/config/client",
+            "fileType": "unknown",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/config/build.ts": [
+          {
+            "timestamp": "2025-01-03T07:53:55.389Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/config/build.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:53:56.416Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/config/build.ts",
+            "fileType": ".ts",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/config/client.ts": [
+          {
+            "timestamp": "2025-01-03T07:54:00.025Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/config/client.ts",
+            "fileType": ".ts",
+            "linesAdded": 27,
+            "linesRemoved": 0,
             "projectName": "nextjs-webllm"
           }
         ]
