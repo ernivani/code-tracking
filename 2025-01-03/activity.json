@@ -3895,9 +3895,9 @@
       }
     },
     "my-code-activity-ext": {
-      "totalLinesAdded": 3392,
+      "totalLinesAdded": 3978,
       "totalLinesRemoved": 469,
-      "totalActiveTime": 90,
+      "totalActiveTime": 100,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/src/extension.ts": [
           {
@@ -4583,6 +4583,78 @@
             "linesAdded": 31,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T21:36:45.443Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 583,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:36:45.445Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:36:45.730Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:36:46.196Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:36:46.197Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:36:53.801Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
           }
         ],
         "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md": [
@@ -4600,6 +4672,54 @@
           },
           {
             "timestamp": "2025-01-03T21:35:08.827Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:36:48.016Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:37:18.060Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:37:22.049Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:37:23.257Z",
             "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
             "fileType": ".md",
             "linesAdded": 0,
