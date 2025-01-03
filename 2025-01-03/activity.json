@@ -79,7 +79,7 @@
       }
     },
     "tinycms": {
-      "totalLinesAdded": 10690,
+      "totalLinesAdded": 10693,
       "totalLinesRemoved": 1417,
       "totalActiveTime": 261,
       "files": {
@@ -1444,6 +1444,14 @@
             "fileType": ".md",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "tinycms"
+          },
+          {
+            "timestamp": "2025-01-03T09:28:55.036Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/tinycms/content/page/features.md",
+            "fileType": ".md",
+            "linesAdded": 3,
+            "linesRemoved": 0,
             "projectName": "tinycms"
           }
         ],
