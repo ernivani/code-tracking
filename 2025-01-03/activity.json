@@ -3796,7 +3796,7 @@
     },
     "my-code-activity-ext": {
       "totalLinesAdded": 2501,
-      "totalLinesRemoved": 217,
+      "totalLinesRemoved": 449,
       "totalActiveTime": 74,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/src/extension.ts": [
@@ -4408,6 +4408,14 @@
             "fileType": ".md",
             "linesAdded": 9,
             "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T19:42:32.773Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/README.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 232,
             "projectName": "my-code-activity-ext"
           }
         ]
