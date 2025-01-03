@@ -1,17 +1,18 @@
-# deps-cleaner - Activity Summary 
+# my-code-activity-ext - Activity Summary 
 
 ## Overall Statistics
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 59                                          |
-| **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 54                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Lines Added** (➕)   | 314                                          |
+| **Lines Removed** (➖) | 12                                        |
+| **Net Change** (↕)    | 302                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **install.sh** (+59, -5)
+- **extension.ts** (+204, -12)
+- **status-bar.ts** (+110, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".sh" : 64
+".ts" : 326
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,7 +29,7 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"05h" : 4
+"18h" : 5
 ```
 
 

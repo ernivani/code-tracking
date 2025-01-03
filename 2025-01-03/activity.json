@@ -3793,6 +3793,57 @@
           }
         ]
       }
+    },
+    "my-code-activity-ext": {
+      "totalLinesAdded": 314,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/src/extension.ts": [
+          {
+            "timestamp": "2025-01-03T17:53:08.923Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 198,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T17:53:10.634Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T17:53:15.747Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T17:53:44.131Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts": [
+          {
+            "timestamp": "2025-01-03T17:53:49.393Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/tracking/status-bar.ts",
+            "fileType": ".ts",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ]
+      }
     }
   }
 }
