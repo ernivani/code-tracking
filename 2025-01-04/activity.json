@@ -1,0 +1,74 @@
+{
+  "date": "2025-01-04",
+  "projects": {
+    "my-code-activity-ext": {
+      "totalLinesAdded": 89,
+      "totalLinesRemoved": 89,
+      "totalActiveTime": 11,
+      "files": {
+        "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_visual_analytics.md": [
+          {
+            "timestamp": "2025-01-03T23:01:19.913Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_visual_analytics.md",
+            "fileType": ".md",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T23:02:05.908Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_visual_analytics.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T23:02:06.922Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_visual_analytics.md",
+            "fileType": ".md",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_collaboration.md": [
+          {
+            "timestamp": "2025-01-03T23:02:00.648Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_collaboration.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T23:02:06.970Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_collaboration.md",
+            "fileType": ".md",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ],
+        "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_summaries.md": [
+          {
+            "timestamp": "2025-01-03T23:02:05.922Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_summaries.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-03T23:02:06.932Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_summaries.md",
+            "fileType": ".md",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext"
+          }
+        ]
+      }
+    }
+  }
+}
