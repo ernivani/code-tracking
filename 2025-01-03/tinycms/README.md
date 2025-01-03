@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10452                                          |
-| **Lines Removed** (➖) | 1403                                        |
-| **Net Change** (↕)    | 9049                |
-| **Active Time** (⌚)   | 249 minutes |
+| **Lines Added** (➕)   | 10690                                          |
+| **Lines Removed** (➖) | 1417                                        |
+| **Net Change** (↕)    | 9273                |
+| **Active Time** (⌚)   | 261 minutes |
 
 
 ## Modified Files
@@ -27,12 +27,12 @@
 - **renderBlock.tsx** (+153, -0)
 - **block.ts** (+163, -0)
 - **markdownToHtml.ts** (+208, -0)
-- **home.md** (+175, -145)
+- **home.md** (+235, -150)
 - **[slug].ts** (+107, -0)
 - **markdown.ts** (+51, -0)
 - **CreateSiteForm.tsx** (+280, -0)
 - **index.ts** (+2617, -851)
-- **features.md** (+27, -0)
+- **features.md** (+105, -4)
 - **Title.tsx** (+57, -3)
 - **Header.tsx** (+1045, -1)
 - **Menu.tsx** (+123, -0)
@@ -52,6 +52,8 @@
 - **BaseLayout.tsx** (+35, -4)
 - **ScrollToTop.tsx** (+42, -2)
 - **lien.md** (+39, -0)
+- **templates.md** (+62, -5)
+- **index.json** (+38, -0)
 
 ## Visualizations
 
@@ -61,10 +63,10 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 6991
-".json" : 150
+".json" : 188
 "unknown" : 36
 ".ts" : 4292
-".md" : 386
+".md" : 600
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -77,8 +79,8 @@ title Coding activity by hour (count of changes)
 "05h" : 66
 "06h" : 36
 "07h" : 11
-"10h" : 1
+"10h" : 13
 ```
 
 
-> **Last Updated:** 03/01/2025 10:06:26
+> **Last Updated:** 03/01/2025 10:11:26
