@@ -4,7 +4,7 @@
     "my-code-activity-ext": {
       "totalLinesAdded": 98,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 6,
       "files": {
         "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts": [
           {
@@ -71,6 +71,32 @@
             "timestamp": "2025-01-03T21:39:51.944Z",
             "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/src/github/auth.ts",
             "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          }
+        ],
+        "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md": [
+          {
+            "timestamp": "2025-01-03T21:40:38.256Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
+            "fileType": ".md",
+            "linesAdded": 0,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-03T21:40:48.924Z",
+            "fileName": "/Users/thomaslindeker/Documents/my-code-activity-ext/easter egg.md",
+            "fileType": ".md",
             "linesAdded": 0,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext",
