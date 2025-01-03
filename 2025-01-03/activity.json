@@ -2338,9 +2338,9 @@
       }
     },
     "nextjs-webllm": {
-      "totalLinesAdded": 443,
-      "totalLinesRemoved": 87,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 3861,
+      "totalLinesRemoved": 140,
+      "totalActiveTime": 30,
       "files": {
         "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/package.json": [
           {
@@ -2371,6 +2371,30 @@
           },
           {
             "timestamp": "2025-01-03T07:47:46.748Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/ChatClient.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:57:32.395Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/ChatClient.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:57:36.151Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/ChatClient.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:57:49.345Z",
             "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/ChatClient.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
@@ -2411,6 +2435,14 @@
             "fileType": ".tsx",
             "linesAdded": 50,
             "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:54:48.120Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 50,
             "projectName": "nextjs-webllm"
           }
         ],
@@ -2456,6 +2488,98 @@
             "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/config/client.ts",
             "fileType": ".ts",
             "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/api": [
+          {
+            "timestamp": "2025-01-03T07:57:58.123Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/api",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:57:59.133Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/api",
+            "fileType": "unknown",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/constant": [
+          {
+            "timestamp": "2025-01-03T07:58:15.981Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/constant",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:58:16.990Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/constant",
+            "fileType": "unknown",
+            "linesAdded": 1436,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/api.ts": [
+          {
+            "timestamp": "2025-01-03T07:58:21.161Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/api.ts",
+            "fileType": ".ts",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/client/api.ts": [
+          {
+            "timestamp": "2025-01-03T07:58:35.641Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/client/api.ts",
+            "fileType": ".ts",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/client/ChatClient.tsx": [
+          {
+            "timestamp": "2025-01-03T07:58:43.480Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/client/ChatClient.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 223,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          }
+        ],
+        "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/constant.ts": [
+          {
+            "timestamp": "2025-01-03T07:59:00.349Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/constant.ts",
+            "fileType": ".ts",
+            "linesAdded": 1437,
+            "linesRemoved": 0,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:59:16.846Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/constant.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nextjs-webllm"
+          },
+          {
+            "timestamp": "2025-01-03T07:59:27.739Z",
+            "fileName": "/Users/thomaslindeker/WebstormProjects/nextjs-webllm/app/constant.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "nextjs-webllm"
           }
