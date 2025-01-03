@@ -1,17 +1,20 @@
-# deps-cleaner - Activity Summary 
+# impin.fr - Activity Summary 
 
 ## Overall Statistics
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 59                                          |
-| **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 54                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Lines Added** (➕)   | 231                                          |
+| **Lines Removed** (➖) | 20                                        |
+| **Net Change** (↕)    | 211                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
-- **install.sh** (+59, -5)
+- **next.config.mjs** (+17, -12)
+- **Navbar.tsx** (+134, -8)
+- **Blog.tsx** (+47, -0)
+- **page.tsx** (+33, -0)
 
 ## Visualizations
 
@@ -20,7 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".sh" : 64
+".mjs" : 29
+".tsx" : 222
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,7 +32,7 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"05h" : 4
+"06h" : 10
 ```
 
 
