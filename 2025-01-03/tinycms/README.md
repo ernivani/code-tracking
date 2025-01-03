@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12096                                          |
-| **Lines Removed** (➖) | 1427                                        |
-| **Net Change** (↕)    | 10669                |
-| **Active Time** (⌚)   | 270 minutes |
+| **Lines Added** (➕)   | 12248                                          |
+| **Lines Removed** (➖) | 1582                                        |
+| **Net Change** (↕)    | 10666                |
+| **Active Time** (⌚)   | 286 minutes |
 
 
 ## Modified Files
 - **login.tsx** (+68, -1)
-- **newsite.tsx** (+735, -0)
+- **newsite.tsx** (+741, -6)
 - **package.json** (+150, -0)
-- **menu.tsx** (+454, -34)
+- **menu.tsx** (+466, -46)
 - **IconSettings.tsx** (+79, -2)
 - **COMMIT_EDITMSG** (+27, -9)
 - **Sidebar.tsx** (+1086, -56)
@@ -45,7 +45,7 @@
 - **DashboardLayout.tsx** (+18, -0)
 - **_app.tsx** (+350, -61)
 - **prisma.ts** (+5, -0)
-- **images.tsx** (+695, -0)
+- **images.tsx** (+777, -82)
 - **ImageGrid.tsx** (+69, -0)
 - **Banner.tsx** (+224, -1)
 - **index.tsx** (+38, -0)
@@ -55,7 +55,7 @@
 - **templates.md** (+62, -5)
 - **index.json** (+38, -0)
 - **ActionList.tsx** (+59, -0)
-- **settings.tsx** (+377, -0)
+- **settings.tsx** (+429, -55)
 
 ## Visualizations
 
@@ -64,7 +64,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 8397
+".tsx" : 8704
 ".json" : 188
 "unknown" : 36
 ".ts" : 4292
@@ -82,8 +82,8 @@ title Coding activity by hour (count of changes)
 "06h" : 36
 "07h" : 11
 "10h" : 16
-"11h" : 9
+"11h" : 26
 ```
 
 
-> **Last Updated:** 03/01/2025 11:05:52
+> **Last Updated:** 03/01/2025 11:10:52
