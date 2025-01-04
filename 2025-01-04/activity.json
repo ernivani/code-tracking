@@ -2,9 +2,9 @@
   "date": "2025-01-04",
   "projects": {
     "my-code-activity-ext": {
-      "totalLinesAdded": 1100,
-      "totalLinesRemoved": 140,
-      "totalActiveTime": 39,
+      "totalLinesAdded": 1458,
+      "totalLinesRemoved": 146,
+      "totalActiveTime": 46,
       "files": {
         "c:\\Users\\tlind\\project\\my-code-activity-ext\\.github\\ISSUE_TEMPLATE\\feature_request_visual_analytics.md": [
           {
@@ -247,6 +247,25 @@
             "linesAdded": 0,
             "linesRemoved": 51,
             "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-04T00:32:39.657Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\src\\extension.ts",
+            "fileType": ".ts",
+            "linesAdded": 239,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "language": "ts",
+            "changeType": "create",
+            "functionChanges": {
+              "added": [],
+              "modified": [],
+              "removed": []
+            }
           }
         ],
         "c:\\Users\\tlind\\project\\my-code-activity-ext\\package.json": [
@@ -273,6 +292,44 @@
             "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-04T00:28:23.607Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\package.json",
+            "fileType": ".json",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "language": "json",
+            "changeType": "create",
+            "functionChanges": {
+              "added": [],
+              "modified": [],
+              "removed": []
+            }
+          },
+          {
+            "timestamp": "2025-01-04T00:32:39.642Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "language": "json",
+            "changeType": "delete",
+            "functionChanges": {
+              "added": [],
+              "modified": [],
+              "removed": []
+            }
           }
         ],
         "c:\\Users\\tlind\\project\\my-code-activity-ext\\tsconfig.json": [
@@ -291,6 +348,25 @@
             "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "my-code-activity-ext"
+          },
+          {
+            "timestamp": "2025-01-04T00:32:44.962Z",
+            "fileName": "c:\\Users\\tlind\\project\\my-code-activity-ext\\tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "my-code-activity-ext",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "language": "json",
+            "changeType": "create",
+            "functionChanges": {
+              "added": [],
+              "modified": [],
+              "removed": []
+            }
           }
         ],
         "c:\\Users\\tlind\\project\\my-code-activity-ext\\tailwind.config.js": [
